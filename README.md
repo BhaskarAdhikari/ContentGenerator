@@ -1,8 +1,9 @@
 Content Generator using OpenAI API
-Overview
+
+Overview:
 This Python project demonstrates how to build a Content Generator using the OpenAI API. It allows users to input prompts and get detailed and relevant content based on their input. The project includes functions for generating content using OpenAI's GPT-4 model and handles API connections and errors gracefully.
 
-Features
+Features:
 API Integration: Connects to OpenAI's API using an API key stored in environment variables.
 Content Generation: Accepts user prompts and returns well-structured content.
 Customizable Models: Supports different models, with GPT-4 as the default.
